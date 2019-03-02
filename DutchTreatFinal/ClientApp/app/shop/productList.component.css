@@ -1,0 +1,25 @@
+﻿.product-info img {
+    max-width: 100px;
+    float: left;
+    margin: 0 2px;
+    border: solid 1px black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.product-info .product-name {
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+}
+
+.product-info .product-props {
+    font-size: small;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
